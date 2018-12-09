@@ -26,7 +26,7 @@ planning out development.
 
 We will go with the [MIT](https://opensource.org/licenses/MIT) licence. Basically feel free to use 
 any of my code from this project for open source, business, or any other ventures. I just will not 
-guarantee that it will work nor do I take responsibility for its failure. Keep in mind that I do not
-take ownership for any code that was created by others i.e. any Android code or the like. 
+guarantee that it will work nor do I take responsibility for its failure. I do not take ownership 
+for any code that was created by others i.e. any Android code or the like. 
 
 
