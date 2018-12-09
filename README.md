@@ -9,11 +9,18 @@ work through the ins and outs of Android.
 
 ----------
 
+### Tasks ###
+This is a test of GitHub's task list. Ignore for now.
+- [ ] some task
+- [x] completed task
+
+
 ### Planned Features ###
 
 The planned features for this project can be found in the TODO file until I do it in a better way. 
 I am looking for something to integrate with GitHub as a feature tracker and as something to use with 
 planning out development.  
+
 
 ### License ###
 
