@@ -1,0 +1,26 @@
+My To-Do Feature Tracker
+
+Until I find a better way to plan and track features, this is where I will place upper-level To-Dos.
+In the context of this application, an upper level To-Do refers to anything that needs to be done
+that would be better seen here. A To-Do that refers to something very specific inside of a class can
+be found within that class.
+
+Development
+===========
+
+TODO: Make a UI skeleton for the app
+* The UI skeleton should be like a wireframe except its an actual app
+TODO: Make a Settings Activity following best practices
+TODO: Research how to make UI pop-ups for data entry
+
+Features
+========
+Here is a future feature list. I should have some kind of auditing system that tracks the creation,
+status, and completion of each feature. Also, I should integrate it with git.
+
+TODO: User can set alarm
+TODO: User can delete alarm
+TODO: User can edit alarm
+TODO: Alarm can perform at least one action
+TODO: User can delete all alarms at once
+* Put this in the Settings Activity
