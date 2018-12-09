@@ -15,7 +15,7 @@ The planned features for this project can be found in the TODO file until I do i
 I am looking for something to integrate with GitHub as a feature tracker and as something to use with 
 planning out development.  
 
-### Licence ###
+### License ###
 
 We will go with the [MIT](https://opensource.org/licenses/MIT) licence. Basically feel free to use 
 any of my code from this project for open source, business, or any other ventures. I just will not 
